@@ -1,0 +1,20 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.pdb
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 报告临时文件（Word 打开时产生的锁文件）
+~$*.docx
+~$*.pdf
+~$*.pptx
